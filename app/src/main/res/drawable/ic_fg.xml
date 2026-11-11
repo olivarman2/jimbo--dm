@@ -1,0 +1,16 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp" android:viewportWidth="108" android:viewportHeight="108">
+    <!-- glass disc -->
+    <path android:pathData="M54,54m-29,0a29,29 0 1,1 58,0a29,29 0 1,1 -58,0"
+        android:fillColor="#FFFFFF" android:fillAlpha="0.30"
+        android:strokeColor="#FFFFFF" android:strokeAlpha="0.85" android:strokeWidth="1.6" />
+    <!-- highlight -->
+    <path android:pathData="M34,46 Q40,30 58,29"
+        android:strokeColor="#FFFFFF" android:strokeAlpha="0.9" android:strokeWidth="2.2" android:strokeLineCap="round" />
+    <!-- J letter -->
+    <path android:pathData="M62,34 L62,58 Q62,70 50,70 Q42,70 39,63"
+        android:strokeColor="#1B5E20" android:strokeWidth="7.5" android:strokeLineCap="round" android:strokeLineJoin="round" />
+    <!-- download arrowhead on top of the J -->
+    <path android:pathData="M52,36 L62,46 L72,36"
+        android:strokeColor="#FFFFFF" android:strokeWidth="5" android:strokeLineCap="round" android:strokeLineJoin="round" />
+</vector>
